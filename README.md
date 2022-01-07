@@ -1,5 +1,5 @@
-# Basic Starter Kit
+# CSPC1517 Workbook repository
 
-## Owner your name
+## Haseeb Memon workbook
 
 alter this statement to indicate the usage of this repository
